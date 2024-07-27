@@ -1,5 +1,5 @@
 # aqprius
-AQPrius: An online AQP engine enhanced by error assessment
+AQPrius: An online AQP engine enhanced with error assessment by bootstrap sampling
 
 ## How to Run the Code
 
@@ -24,5 +24,10 @@ To run the code, follow these steps:
    - `-d`: Specifies the name of the SQLite database.
    - `-s`: Specifies the sample ratio.
    - `-b`: Specifies the bootstrap size or number.
+
+## Contributors
+
+- Sabin Maharjan
+- Feng "George" Yu
 
 
