@@ -1,0 +1,1 @@
+select count(*) from lineitem,orders,customer where l_orderkey = o_orderkey and o_custkey = c_custkey and c_acctbal < 10000 and c_acctbal > 5000
