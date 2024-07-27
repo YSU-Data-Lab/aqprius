@@ -25,8 +25,9 @@ To run the code, follow these steps:
    - `-s`: Specifies the sample ratio.
    - `-b`: Specifies the bootstrap size or number.
 
+## Runtime Demo
+
 ![runtime](figure/runtime.jpg)
-Runtime Demo
 
 ## Contributors
 
