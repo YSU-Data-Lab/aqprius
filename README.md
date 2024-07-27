@@ -27,6 +27,8 @@ To run the code, follow these steps:
 
 ## Contributors
 
+YSU Data Lab:
+
 - Sabin Maharjan
 - Feng "George" Yu
 
