@@ -27,7 +27,7 @@ To run the code, follow these steps:
 
 ## Runtime Demo
 
-![runtime](figure/runtime.jpg)
+![runtime](figure/runtime.png)
 
 ## Contributors
 
