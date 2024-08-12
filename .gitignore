@@ -16,4 +16,5 @@ Cargo.lock
 *.db
 
 .vscode/
-
+data/
+data
